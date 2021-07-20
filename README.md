@@ -61,7 +61,7 @@ These attributes are accompanied by the following methods.
 
 Each of the methods are documented using docstrings as necessary along with a notebook that contains an example of how to construct the PacLinearRegression class with one or many independent variables. A figure of comparison between PacLinearRegression's and LinearRegression's (sklearn) performance is shown below. 
 
-![sample](figures/sample_linear_reg_sklearn_vs_pacmann.svg)
+![sample](figures/sample_linear_reg_sklearn_vs_pacmann.png)
 
 ### Requirements<a name="requirements"></a>
 
@@ -100,6 +100,7 @@ The files in this repository are organized as follows.
 
 ```
 - figures
+| - sample_linear_reg_sklearn_vs_pacmann.png
 | - sample_linear_reg_sklearn_vs_pacmann.svg
 
 - class_demo.ipynb
