@@ -46,7 +46,7 @@ class PacLinearRegression():
         Create a loop of gradient descent method, appending cost_hist per iter.
     predict(X):
         Predict the label given feature X.
-    score(X):
+    score(y_val, y_pred):
         Return the R-squared metric of the model.
     """
 
